@@ -1,0 +1,5 @@
+.DS_Store
+.vscode
+lazygit/.config/lazygit/state.yml
+.zcompdump
+.zhistory
