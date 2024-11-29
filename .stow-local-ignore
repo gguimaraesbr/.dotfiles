@@ -1,0 +1,6 @@
+.git
+.gitignore
+
+Brewfile
+Brewfile.lock.json
+stylua.toml

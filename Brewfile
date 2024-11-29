@@ -1,0 +1,62 @@
+# programs
+brew "colima"
+brew "docker"
+brew "docker-compose"
+brew "fd"
+brew "fzf"
+brew "git"
+brew "helm"
+brew "kubectl"
+brew "lazydocker"
+brew "lazygit"
+brew "mise"
+brew "neovim"
+brew "ripgrep"
+brew "starship"
+brew "stow"
+brew "tmux"
+brew "tpm"
+brew "yazi"
+brew "zoxide"
+
+# linters
+brew "black"
+brew "stylua"
+brew "yamlfmt"
+
+# ruby dependencies
+brew "libyaml"
+brew "openssl@1.1"
+
+# php dependencies
+brew "autoconf"
+brew "automake"
+brew "bison"
+brew "freetype"
+brew "gd"
+brew "gettext"
+brew "gmp"
+brew "icu4c"
+brew "imagemagick"
+brew "krb5"
+brew "libedit"
+brew "libiconv"
+brew "libjpeg"
+brew "libpng"
+brew "libsodium"
+brew "libxml2"
+brew "libzip"
+brew "pkg-config"
+brew "re2c"
+brew "zlib"
+
+# applications
+cask "brave-browser"
+cask "discord"
+cask "kitty"
+cask "obsidian"
+cask "rectangle"
+cask "todoist"
+
+# fonts
+cask "font-jetbrains-mono"

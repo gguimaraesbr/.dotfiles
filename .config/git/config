@@ -1,0 +1,24 @@
+[user]
+	name = Guilherme Filho
+	email = gguimaraesbr@gmail.com
+
+[push]
+	default = simple
+
+[alias]
+	a = add
+	b = branch
+	ba = branch -a
+	c = commit
+	cm = commit -m
+	d = diff
+	l = log --pretty='%C(bold)Commit:%C(reset) %C(green)%H%C(red)%d%n%C(bold)Author:%C(reset) %C(cyan)%an <%ae>%n%C(bold)Date:%C(reset)   %C(blue)%ai (%ar)%C(reset)%n%+B' --topo-order --graph
+	lo = log --pretty='%C(green)%h%C(reset) %s%n%C(blue)(%ar by %an)%C(red)%d%C(reset)%n' --topo-order --graph
+	s = status
+
+[init]
+	defaultBranch = main
+
+[includeIf "gitdir:~/dev/work/"]
+	path = ~/dev/work/.gitconfig
+

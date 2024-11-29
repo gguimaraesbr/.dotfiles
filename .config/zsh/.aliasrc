@@ -1,0 +1,28 @@
+#!/bin/zsh
+
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
+
+# File system
+alias la='ls -Gla'
+
+# Directories
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+
+alias mkdir="mkdir -pv"
+
+# Tools
+alias d='docker'
+alias e='$EDITOR'
+alias g='git'
+alias grep="grep --color=auto"
+alias lzg='lazygit'
+alias lzd='lazydocker'
+alias v='$EDITOR'
+
+# Git
+alias gcm='git commit -m'
+alias gcam='git commit -a -m'
+alias gcad='git commit -a --amend'
