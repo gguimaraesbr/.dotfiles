@@ -57,6 +57,7 @@ cask "kitty"
 cask "obsidian"
 cask "rectangle"
 cask "todoist"
+cask "zed"
 
 # fonts
-cask "font-jetbrains-mono"
+cask "font-jetbrains-mono-nerd-font"
