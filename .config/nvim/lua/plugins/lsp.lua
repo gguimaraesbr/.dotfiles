@@ -19,15 +19,14 @@ return {
         ensure_installed = {
           'biome', --javascript
           'gopls', --go
-          'intelephense', --php
           'lua_ls', --lua
           'pyright', --python
+          'rust_analyzer', --rust
         },
       })
 
       require('lspconfig').biome.setup({})
       require('lspconfig').gopls.setup({})
-      require('lspconfig').intelephense.setup({})
       require('lspconfig').lua_ls.setup({
         settings = {
           Lua = {
@@ -38,6 +37,7 @@ return {
         },
       })
       require('lspconfig').pyright.setup({})
+      require('lspconfig').rust_analyzer.setup({})
     end,
   },
 }
