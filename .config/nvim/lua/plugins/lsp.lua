@@ -17,15 +17,14 @@ return {
       -- lsp servers
       require('mason-lspconfig').setup({
         ensure_installed = {
-          'biome', --javascript
           'gopls', --go
           'lua_ls', --lua
+          'biome', --javascript
           'pyright', --python
           'rust_analyzer', --rust
         },
       })
 
-      require('lspconfig').biome.setup({})
       require('lspconfig').gopls.setup({})
       require('lspconfig').lua_ls.setup({
         settings = {
@@ -36,6 +35,7 @@ return {
           },
         },
       })
+      require('lspconfig').biome.setup({})
       require('lspconfig').pyright.setup({})
       require('lspconfig').rust_analyzer.setup({})
     end,
