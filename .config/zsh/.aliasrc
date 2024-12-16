@@ -14,10 +14,12 @@ alias ....='cd ../../..'
 alias mkdir="mkdir -pv"
 
 # Tools
+alias d='docker'
 alias e='$EDITOR'
 alias g='git'
 alias grep="grep --color=auto"
 alias lzg='lazygit'
+alias lzd='lazydocker'
 alias v='$EDITOR'
 
 # Git
