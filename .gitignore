@@ -1,5 +1,4 @@
 .config/zsh/.zsh_sessions
 .config/zsh/.zsh_history
 .config/colima
-.config/tmux/plugins
 .config/helm

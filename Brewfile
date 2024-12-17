@@ -14,21 +14,17 @@ brew "neovim"
 brew "ripgrep"
 brew "starship"
 brew "stow"
-brew "tmux"
-brew "tpm"
-# brew "yazi"
+brew "zellij"
 brew "zoxide"
 
 # linters
-# brew "black"
+brew "black"
 brew "stylua"
-# brew "yamlfmt"
+brew "yamlfmt"
 
 # applications
-# cask "discord"
 cask "kitty"
 cask "obsidian"
-# cask "rectangle"
 cask "todoist"
 
 # fonts

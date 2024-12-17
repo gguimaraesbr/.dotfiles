@@ -9,7 +9,6 @@ return {
         javascriptreact = { 'biome' },
         json = { 'biome' },
         lua = { 'stylua' },
-        php = { 'php_cs_fixer' },
         python = { 'black' },
         typescript = { 'biome' },
         typescriptreact = { 'biome' },
