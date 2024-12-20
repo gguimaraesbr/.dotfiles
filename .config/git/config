@@ -19,6 +19,6 @@
 [init]
 	defaultBranch = main
 
-[includeIf "gitdir:~/programming/work/"]
-	path = ~/programming/work/.gitconfig
+[includeIf "gitdir:~/repos/work/"]
+	path = ~/repos/work/.gitconfig
 
