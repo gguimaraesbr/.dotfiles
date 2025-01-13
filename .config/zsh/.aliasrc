@@ -21,7 +21,6 @@ alias g='git'
 alias grep="grep --color=auto"
 alias lzg='lazygit'
 alias lzd='lazydocker'
-alias t='zellij'
 alias v='$EDITOR'
 
 # Git
