@@ -22,9 +22,5 @@ brew "stylua"
 brew "yamlfmt"
 
 # applications
-cask "cursor"
 cask "obsidian"
 cask "todoist"
-
-# fonts
-cask "font-hack-nerd-font"
