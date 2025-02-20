@@ -24,3 +24,6 @@ brew "yamlfmt"
 # applications
 cask "obsidian"
 cask "todoist"
+
+# fonts
+cask "font-iosevka-term-nerd-font"
