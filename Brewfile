@@ -22,8 +22,11 @@ brew "stylua"
 brew "yamlfmt"
 
 # applications
+cask "cursor"
 cask "obsidian"
 cask "todoist"
+cask "visual-studio-code"
+cask "windsurf"
 
 # fonts
 cask "font-iosevka-term-nerd-font"
