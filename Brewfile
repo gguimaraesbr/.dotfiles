@@ -26,3 +26,6 @@ cask "obsidian"
 cask "todoist"
 cask "visual-studio-code"
 cask "windsurf"
+
+# fonts
+cask "font-jetbrains-mono"
