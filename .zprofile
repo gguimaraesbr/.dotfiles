@@ -4,8 +4,8 @@
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # Default programs
-export EDITOR='code -nw'
-export VISUAL='code -nw'
+export EDITOR='nvim'
+export VISUAL='nvim'
 
 # Clean up ~/
 export XDG_CACHE_HOME="$HOME/.cache"
@@ -13,6 +13,7 @@ export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
 export XDG_STATE_HOME="$HOME/.local/state"
 
+export STARSHIP_CONFIG="$XDG_CONFIG_HOME/starship/starship.toml"
 export ZDOTDIR="$XDG_CONFIG_HOME/zsh"
 
 export DOCKER_DEFAULT_PLATFORM=linux/amd64

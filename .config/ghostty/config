@@ -1,6 +1,8 @@
 cursor-style = block
 cursor-style-blink = false
-font-size = 14
+font-family = "IosevkaTerm Nerd Font"
+font-size = 16
 macos-option-as-alt = true
 shell-integration-features = no-cursor
+theme = "tokyonight_moon"
 window-save-state = "always"

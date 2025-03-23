@@ -10,6 +10,7 @@ brew "kubectl"
 brew "lazydocker"
 brew "lazygit"
 brew "mise"
+brew "neovim"
 brew "ripgrep"
 brew "starship"
 brew "stow"
@@ -28,4 +29,4 @@ cask "visual-studio-code"
 cask "windsurf"
 
 # fonts
-cask "font-jetbrains-mono"
+cask "font-iosevka-term-nerd-font"
