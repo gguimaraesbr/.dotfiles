@@ -23,10 +23,8 @@ brew "yamlfmt"
 
 # applications
 cask "claude"
-cask "cursor"
 cask "obsidian"
 cask "todoist"
-cask "visual-studio-code"
 
-# fonts
-cask "font-jetbrains-mono"
+cask "visual-studio-code"
+cask "visual-studio-code@insiders"

@@ -1,8 +1,6 @@
 cursor-style = block
 cursor-style-blink = false
-font-family = "JetBrains Mono"
 font-size = 14
 macos-option-as-alt = true
 shell-integration-features = no-cursor
-theme = "tokyonight_moon"
 window-save-state = "always"
