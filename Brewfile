@@ -22,11 +22,11 @@ brew "stylua"
 brew "yamlfmt"
 
 # applications
-cask "claude"
 cask "cursor"
 cask "obsidian"
 cask "todoist"
 cask "visual-studio-code"
+cask "windsurf"
 
 # fonts
-cask "font-jetbrains-mono"
+cask "font-iosevka-term-nerd-font"
