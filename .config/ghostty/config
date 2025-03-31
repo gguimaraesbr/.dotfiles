@@ -1,6 +1,6 @@
 cursor-style = block
 cursor-style-blink = false
-font-family = "IosevkaTerm Nerd Font"
+font-family = "IosevkaTerm Nerd Font Mono"
 font-size = 16
 macos-option-as-alt = true
 shell-integration-features = no-cursor

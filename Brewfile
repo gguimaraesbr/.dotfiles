@@ -25,8 +25,9 @@ brew "yamlfmt"
 cask "cursor"
 cask "obsidian"
 cask "todoist"
+
 cask "visual-studio-code"
-cask "windsurf"
+cask "visual-studio-code@insiders"
 
 # fonts
 cask "font-iosevka-term-nerd-font"
