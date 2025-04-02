@@ -22,6 +22,7 @@ brew "stylua"
 brew "yamlfmt"
 
 # applications
+cask "claude"
 cask "cursor"
 cask "obsidian"
 cask "todoist"
