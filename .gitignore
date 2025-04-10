@@ -1,3 +1,4 @@
+.config/zsh/.zshrc.local
 .config/zsh/.zsh_sessions
 .config/zsh/.zsh_history
 .config/colima

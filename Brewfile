@@ -23,12 +23,9 @@ brew "yamlfmt"
 
 # applications
 cask "claude"
-cask "cursor"
 cask "obsidian"
 cask "todoist"
-
 cask "visual-studio-code"
-cask "visual-studio-code@insiders"
 
 # fonts
-cask "font-iosevka-term-nerd-font"
+cask "font-jetbrains-mono-nerd-font"
