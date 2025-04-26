@@ -4,5 +4,5 @@ font-family = "JetBrainsMono Nerd Font Mono"
 font-size = 15
 macos-option-as-alt = true
 shell-integration-features = no-cursor
-theme = "NvimDark"
+theme = "tokyonight_moon"
 window-save-state = "always"
