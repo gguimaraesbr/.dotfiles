@@ -64,5 +64,7 @@ export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS \
   --color=spinner:#ff007c \
 "
 
-# Load local setttings if present.
-[ -f "${XDG_CONFIG_HOME}/zsh/.zshrc.local" ] && source "${XDG_CONFIG_HOME}/zsh/.zshrc.local"
+# Load secrets from local file
+if [[ -f "$HOME/.env.secret" ]]; then
+  source "$HOME/.env.secret"
+fi
