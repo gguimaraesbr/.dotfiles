@@ -23,6 +23,7 @@ brew "yamlfmt"
 
 # applications
 cask "claude"
+cask "ngrok"
 cask "obsidian"
 cask "todoist"
 cask "visual-studio-code"
