@@ -29,4 +29,4 @@ cask "todoist"
 cask "visual-studio-code"
 
 # fonts
-cask "font-jetbrains-mono-nerd-font"
+cask "font-fira-code-nerd-font"
