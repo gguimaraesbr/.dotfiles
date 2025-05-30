@@ -4,5 +4,5 @@ font-family = "FiraCode Nerd Font Mono"
 font-size = 14
 macos-option-as-alt = true
 shell-integration-features = no-cursor
-theme = "GitHub-Dark-Default"
+theme = "GitHub-Dark-Dimmed"
 window-save-state = "always"
