@@ -24,7 +24,7 @@ brew "yamlfmt"
 # applications
 cask "ngrok"
 cask "obsidian"
-cask "todoist"
+cask "todoist-app"
 cask "visual-studio-code"
 
 # fonts
