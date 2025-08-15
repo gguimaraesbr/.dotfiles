@@ -1,8 +1,10 @@
 cursor-style = block
 cursor-style-blink = false
-font-family = "Maple Font NF"
+font-family = "Maple Mono NF"
 font-size = 14
+font-feature = -calt,cv01
+font-style-italic = false
 macos-option-as-alt = true
 shell-integration-features = no-cursor
-theme = "catppuccin-mocha"
+theme = "NvimDark"
 window-save-state = "always"
