@@ -6,5 +6,5 @@ font-feature = -calt,cv01,zero
 font-style-italic = false
 macos-option-as-alt = true
 shell-integration-features = no-cursor
-theme = "NvimDark"
+theme = "catppuccin-mocha"
 window-save-state = "always"
