@@ -22,6 +22,7 @@ brew "stylua"
 brew "yamlfmt"
 
 # applications
+cask "ghostty"
 cask "ngrok"
 cask "obsidian"
 cask "todoist-app"
